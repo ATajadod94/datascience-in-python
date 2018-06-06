@@ -17,8 +17,7 @@ classdef notassophisticatednumber
 end
 
 %% 
-% a = sophisticatednumber(2);
-% b = a
-% b.number  = 12
-% a
-%%
+%b = a
+%b.number  = 12
+%a
+%
